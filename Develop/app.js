@@ -91,7 +91,7 @@ let addEmployee = (workForce) => {
             name: "check"
         })
         .then((data3) => {
-            if (data3.check === "yes") {
+            if (data3.check === "yes" ||data3.check === "Yes" || data3.check === "y" || data3.check === "Y") {
                 start();
             }else{
                 let updateWorkForce = render(workForce);
