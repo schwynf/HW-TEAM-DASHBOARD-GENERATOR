@@ -16,14 +16,14 @@ This is a command line interface application that generates an employee dashboar
 ## Installation <span id="i"></span> 
  Fork the HW-TEAM-DASHBOARD-GENERATOR repoistory to your remote repo (Github Repository) then clone the repository to your local repo (Personal Computer). This is a command line application. To run application, use <code>npm install</code> in terminal to download node_modules folder. After download, type <code>node app.js</code> in terminal to begin application.
  <br>
-Video : <a href="https://schwynf.github.io/HW-README-GENERATOR/" target="_blank">Tutorial Video</a><br>
+Video : ![](./Assets/video.gif)<br>
  
 ## Usage <span id="u"></span> 
  Creating an Employee Dashboard. <br>
  
 ## License <span id="l"></span> 
 None 
- 
+  
 ## Contributing <span id="c"></span> 
  None
  
